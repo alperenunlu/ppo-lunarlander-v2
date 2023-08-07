@@ -25,7 +25,7 @@ model-index:
 This is a trained model of a **PPO** agent playing **LunarLander-v2**
 using the [stable-baselines3 library](https://github.com/DLR-RM/stable-baselines3).
 
-## Usage (with Stable-baselines3)
+<!--## Usage (with Stable-baselines3)
 TODO: Add your code
 
 
@@ -35,3 +35,9 @@ from huggingface_sb3 import load_from_hub
 
 ...
 ```
+-->
+
+
+https://github.com/alperenunlu/ppo-lunarlander-v2/assets/97191996/a0acb446-95d5-43e1-8641-63e1df9e980e
+
+
