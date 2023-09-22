@@ -1,6 +1,3 @@
-https://github.com/alperenunlu/ppo-lunarlander-v2/assets/97191996/97fdea43-b094-4e34-9480-d8caa059fde8
-
-
 # **PPO** Agent playing **LunarLander-v2**
 This is a trained model of a **PPO** agent playing **LunarLander-v2**
 using the [stable-baselines3 library](https://github.com/DLR-RM/stable-baselines3)
@@ -9,6 +6,8 @@ and the [RL Zoo](https://github.com/DLR-RM/rl-baselines3-zoo).
 The RL Zoo is a training framework for Stable Baselines3
 reinforcement learning agents,
 with hyperparameter optimization and pre-trained agents included.
+
+https://github.com/alperenunlu/ppo-lunarlander-v2/assets/97191996/7c64c407-ba47-40c5-8e3f-bc467b27219b
 
 ## Usage (with SB3 RL Zoo)
 
