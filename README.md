@@ -1,25 +1,4 @@
----
-library_name: stable-baselines3
-tags:
-- LunarLander-v2
-- deep-reinforcement-learning
-- reinforcement-learning
-- stable-baselines3
-model-index:
-- name: PPO
-  results:
-  - task:
-      type: reinforcement-learning
-      name: reinforcement-learning
-    dataset:
-      name: LunarLander-v2
-      type: LunarLander-v2
-    metrics:
-    - type: mean_reward
-      value: 280.82 +/- 15.04
-      name: mean_reward
-      verified: false
----
+<video src="replay.mp4" controls title="Title"></video>
 
 # **PPO** Agent playing **LunarLander-v2**
 This is a trained model of a **PPO** agent playing **LunarLander-v2**
@@ -81,4 +60,27 @@ OrderedDict([('batch_size', 8),
 # Environment Arguments
 ```python
 {'render_mode': 'rgb_array'}
+```
+
+```
+library_name: stable-baselines3
+tags:
+- LunarLander-v2
+- deep-reinforcement-learning
+- reinforcement-learning
+- stable-baselines3
+model-index:
+- name: PPO
+  results:
+  - task:
+      type: reinforcement-learning
+      name: reinforcement-learning
+    dataset:
+      name: LunarLander-v2
+      type: LunarLander-v2
+    metrics:
+    - type: mean_reward
+      value: 280.82 +/- 15.04
+      name: mean_reward
+      verified: false
 ```
