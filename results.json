@@ -1,1 +1,1 @@
-{"mean_reward": 244.15573720000003, "std_reward": 18.08878985884901, "is_deterministic": true, "n_eval_episodes": 10, "eval_datetime": "2023-08-07T14:41:53.737577"}
+{"mean_reward": 280.8177559, "std_reward": 15.041655239559867, "is_deterministic": true, "n_eval_episodes": 10, "eval_datetime": "2023-09-15T15:47:56.006682"}

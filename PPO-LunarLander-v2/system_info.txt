@@ -1,9 +1,9 @@
-- OS: Linux-5.15.109+-x86_64-with-glibc2.35 # 1 SMP Fri Jun 9 10:57:30 UTC 2023
+- OS: macOS-14.0-arm64-arm-64bit Darwin Kernel Version 23.0.0: Thu Aug 17 21:23:05 PDT 2023; root:xnu-10002.1.11~3/RELEASE_ARM64_T6000
 - Python: 3.10.12
-- Stable-Baselines3: 2.0.0a5
-- PyTorch: 2.0.1+cu118
-- GPU Enabled: True
-- Numpy: 1.22.4
+- Stable-Baselines3: 2.1.0
+- PyTorch: 2.2.0.dev20230910
+- GPU Enabled: False
+- Numpy: 1.24.3
 - Cloudpickle: 2.2.1
-- Gymnasium: 0.28.1
-- OpenAI Gym: 0.25.2
+- Gymnasium: 0.29.1
+- OpenAI Gym: 0.26.2

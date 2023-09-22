@@ -1,0 +1,27 @@
+!!python/object/apply:collections.OrderedDict
+- - - batch_size
+    - 8
+  - - clip_range
+    - 0.2
+  - - ent_coef
+    - 0.0012069732975503813
+  - - gae_lambda
+    - 0.95
+  - - gamma
+    - 0.999
+  - - learning_rate
+    - 0.0004080379698108855
+  - - max_grad_norm
+    - 0.5
+  - - n_envs
+    - 16
+  - - n_epochs
+    - 10
+  - - n_steps
+    - 256
+  - - n_timesteps
+    - 2000000.0
+  - - policy
+    - MlpPolicy
+  - - vf_coef
+    - 0.3326356386659747
